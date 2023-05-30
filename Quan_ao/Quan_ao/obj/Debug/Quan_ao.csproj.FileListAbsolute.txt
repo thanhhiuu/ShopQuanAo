@@ -1,0 +1,504 @@
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\Quan_ao.dll.config
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\Quan_ao.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\Quan_ao.pdb
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\csc.exe
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\csc.exe.config
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\csc.rsp
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\csi.exe
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\csi.exe.config
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\csi.rsp
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.Managed.Core.targets
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\System.AppContext.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\System.Collections.Immutable.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\System.Console.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\System.Globalization.Calendars.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\System.IO.Compression.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\System.IO.FileSystem.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\System.Net.Http.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\System.Net.Sockets.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\System.Reflection.Metadata.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\System.ValueTuple.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\System.Xml.XmlDocument.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\System.Xml.XPath.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\vbc.exe
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\vbc.exe.config
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\vbc.rsp
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\VBCSCompiler.exe
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\roslyn\VBCSCompiler.exe.config
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\EntityFramework.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\EntityFramework.SqlServer.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\EntityFramework.xml
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\EntityFramework.SqlServer.xml
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.csproj.CoreCompileInputs.cache
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.csproj.CopyComplete
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.dll
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.pdb
+D:\giao thong van tai\Hoc_Ky_2_nam2\ASP_NET\Project_ban_quan_ao\demo1_Quan_Ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.csproj.AssemblyReference.cache
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Quan_ao.dll.config
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Quan_ao.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Quan_ao.pdb
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csc.exe
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csc.exe.config
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csc.rsp
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csi.exe
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csi.exe.config
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csi.rsp
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.AppContext.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Console.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.IO.Compression.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Net.Http.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Net.Sockets.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.ValueTuple.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\vbc.exe
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\vbc.exe.config
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\vbc.rsp
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\VBCSCompiler.exe
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\EntityFramework.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\EntityFramework.SqlServer.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\EntityFramework.xml
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\EntityFramework.SqlServer.xml
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.csproj.AssemblyReference.cache
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.csproj.CoreCompileInputs.cache
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.csproj.CopyComplete
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.dll
+C:\Users\lapto\Desktop\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.pdb
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Quan_ao.dll.config
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Quan_ao.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Quan_ao.pdb
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csc.exe
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csc.exe.config
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csc.rsp
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csi.exe
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csi.exe.config
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csi.rsp
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.Managed.Core.targets
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.AppContext.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Collections.Immutable.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Console.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Globalization.Calendars.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.IO.Compression.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.IO.FileSystem.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Net.Http.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Net.Sockets.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Reflection.Metadata.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.ValueTuple.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Xml.XmlDocument.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Xml.XPath.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\vbc.exe
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\vbc.exe.config
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\vbc.rsp
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\VBCSCompiler.exe
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\VBCSCompiler.exe.config
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\EntityFramework.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\EntityFramework.SqlServer.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\EntityFramework.xml
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\EntityFramework.SqlServer.xml
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.csproj.AssemblyReference.cache
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.csproj.CoreCompileInputs.cache
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.csproj.CopyComplete
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.dll
+C:\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.pdb
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\Quan_ao.dll.config
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\Quan_ao.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\Quan_ao.pdb
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\csc.exe
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\csc.exe.config
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\csc.rsp
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\csi.exe
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\csi.exe.config
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\csi.rsp
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\System.Console.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\vbc.exe
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\vbc.exe.config
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\vbc.rsp
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\EntityFramework.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\EntityFramework.xml
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\obj\Debug\Quan_ao.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\obj\Debug\Quan_ao.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\obj\Debug\Quan_ao.csproj.CopyComplete
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\obj\Debug\Quan_ao.dll
+C:\Users\Dell\Downloads\_Shop_quan_ao-main\_Shop_quan_ao-main\Quan_ao\Quan_ao\obj\Debug\Quan_ao.pdb
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.pdb
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Quan_ao.dll.config
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Quan_ao.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Quan_ao.pdb
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csc.exe
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csc.exe.config
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csc.rsp
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csi.exe
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csi.exe.config
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csi.rsp
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Console.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\vbc.exe
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\vbc.exe.config
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\vbc.rsp
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\EntityFramework.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\EntityFramework.xml
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Downloads\tam\tam3\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.csproj.CopyComplete
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Quan_ao.dll.config
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Quan_ao.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Quan_ao.pdb
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csc.exe
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csc.exe.config
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csc.rsp
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csi.exe
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csi.exe.config
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csi.rsp
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Console.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\vbc.exe
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\vbc.exe.config
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\vbc.rsp
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\EntityFramework.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\EntityFramework.xml
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.csproj.CopyComplete
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.dll
+C:\Users\Dell\Downloads\thunghirm\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.pdb
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Quan_ao.dll.config
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Quan_ao.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Quan_ao.pdb
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csc.exe
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csc.exe.config
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csc.rsp
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csi.exe
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csi.exe.config
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csi.rsp
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Console.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\vbc.exe
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\vbc.exe.config
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\vbc.rsp
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\EntityFramework.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\EntityFramework.xml
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.csproj.CopyComplete
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.dll
+C:\Users\Dell\Downloads\banChinh\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.pdb
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Quan_ao.dll.config
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Quan_ao.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Quan_ao.pdb
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csc.exe
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csc.exe.config
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csc.rsp
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csi.exe
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csi.exe.config
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\csi.rsp
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Console.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Net.Http.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\vbc.exe
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\vbc.exe.config
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\vbc.rsp
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\EntityFramework.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\EntityFramework.xml
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.csproj.CopyComplete
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.dll
+C:\Users\Dell\Downloads\New_moinhat\_Shop_quan_ao\Quan_ao\Quan_ao\obj\Debug\Quan_ao.pdb

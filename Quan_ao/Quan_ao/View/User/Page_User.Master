@@ -1,0 +1,205 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Page_User.master.cs" Inherits="Quan_ao.View.User.Page_User" %>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - My ASP.NET Application</title>
+	<link href="../plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" type="text/css" href="../plugins/OwlCarousel2-2.2.1/owl.carousel.css">
+	<link rel="stylesheet" type="text/css" href="../plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
+	<link rel="stylesheet" type="text/css" href="../plugins/OwlCarousel2-2.2.1/animate.css">
+    <link rel="stylesheet" href="~/Content/CSS/single_styles.css">
+    <link rel="stylesheet" href="~/Content/CSS/single_responsive.css">
+	<link rel="stylesheet" href="~/Content/CSS/main_styles.css"/>
+	<link rel="stylesheet" href="~/Content/CSS/responsive.css">
+    <link href="../../Content/cssBTrap/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
+    <asp:PlaceHolder runat="server"></asp:PlaceHolder>
+
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+	<link rel="stylesheet" href="~/Content/CSS/stye.css">
+
+
+</head>
+<body>
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+        </asp:ScriptManager>
+
+	<div class="super_container">
+
+	<!-- Header -->
+
+	<header class="header trans_300">
+
+		<!-- Top Navigation -->
+
+		
+		<!-- Main Navigation -->
+
+		<div class="main_nav_container">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12 text-right">
+						<div class="logo_container">
+							<a href="#">colo<span>shop</span></a>
+						</div>
+						<nav class="navbar">
+							<ul class="navbar_menu mb-0">
+								<li><a style="font-size:24px" href="/View/User/home.aspx">Home</a></li>
+								<li><a style="font-size:24px" href="/View/User/home.aspx?ID=2">Quần</a></li>
+								<li><a style="font-size:24px" href="/View/User/home.aspx?ID=1">Áo</a></li>
+								<li><a style="font-size:24px" href="/View/User/home.aspx?ID=3">Phụ kiện</a></li>
+								<li><a style="font-size:24px" href="/View/User/home.aspx?ID=4">Giày dép</a></li>
+							</ul>
+							<ul class="navbar_user">
+								<i class="fa fa-user" aria-hidden="true"></i>
+								<asp:LinkButton ID="link_dangnhap_xuat" runat="server"  Text="Đăng nhập" OnClick="link_dangnhap_xuat_Click">Đăng nhập</asp:LinkButton>
+								<li class="checkout">
+									<a href="Gio_hang.aspx" style="display:inline"> Giỏ hàng
+										<i class="fa fa-shopping-cart" aria-hidden="true"></i>
+									</a>
+								</li>
+							</ul>
+							<div class="hamburger_container">
+								<i class="fa fa-bars" aria-hidden="true"></i>
+							</div>
+						</nav>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</header>
+				<div class="fs_menu_overlay"></div>
+	<div class="hamburger_menu">
+		<div class="hamburger_close"><i class="fa fa-times" aria-hidden="true"></i></div>
+		<div class="hamburger_menu_content text-right">
+			<ul class="menu_top_nav">
+				<li class="menu_item has-children">
+					<a href="#">
+						usd
+						<i class="fa fa-angle-down"></i>
+					</a>
+					<ul class="menu_selection">
+						<li><a href="#">cad</a></li>
+						<li><a href="#">aud</a></li>
+						<li><a href="#">eur</a></li>
+						<li><a href="#">gbp</a></li>
+					</ul>
+				</li>
+				<li class="menu_item has-children">
+					<a href="#">
+						English
+						<i class="fa fa-angle-down"></i>
+					</a>
+					<ul class="menu_selection">
+						<li><a href="#">French</a></li>
+						<li><a href="#">Italian</a></li>
+						<li><a href="#">German</a></li>
+						<li><a href="#">Spanish</a></li>
+					</ul>
+				</li>
+				<li class="menu_item has-children">
+					<a href="#">
+						My Account
+						<i class="fa fa-angle-down"></i>
+					</a>
+					<ul class="menu_selection">
+						<li><a href="#"><i class="fa fa-sign-in" aria-hidden="true"></i>Sign In</a></li>
+						<li><a href="#"><i class="fa fa-user-plus" aria-hidden="true"></i>Register</a></li>
+					</ul>
+				</li>
+				<li class="menu_item"><a href="#">home</a></li>
+				<li class="menu_item"><a href="#">shop</a></li>
+				<li class="menu_item"><a href="#">promotion</a></li>
+				<li class="menu_item"><a href="#">pages</a></li>
+				<li class="menu_item"><a href="#">blog</a></li>
+				<li class="menu_item"><a href="#">contact</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<!-- Slider -->
+
+	<div class="main_slider" style="background-image:url(../../Content/IMG/hinh_san_pham/slider_1.jpg)">
+		<div class="container fill_height">
+			<div class="row align-items-center fill_height">
+				<div class="col">
+					<div class="main_slider_content">
+						<h6>Spring / Summer Collection 2017</h6>
+						<h1>Get up to 30% Off New Arrivals</h1>
+						<div class="red_button shop_now_button"><a href="#">shop now</a></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</div>
+            
+
+            <div class="container ">
+                <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+
+            </div>
+            <hr />
+
+        <!--Footer-->
+        <footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-6">
+					<div class="footer_nav_container d-flex flex-sm-row flex-column align-items-center justify-content-lg-start justify-content-center text-center">
+						<ul class="footer_nav">
+							<li><a href="#">Blog</a></li>
+							<li><a href="#">FAQs</a></li>
+							<li><a href="contact.html">Contact us</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-6">
+					<div class="footer_social d-flex flex-row align-items-center justify-content-lg-end justify-content-center">
+						<ul>
+							<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+							<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+							<li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+							<li><a href="#"><i class="fa fa-skype" aria-hidden="true"></i></a></li>
+							<li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="footer_nav_container">
+						<div class="cr">Cảm ơn quý khách đã ghé <i class="fa fa-heart-o" aria-hidden="true"></i> CollShop <a href="#">.Thankyou</a> &amp; distributed by <a href="https://themewagon.com">mọi thắc mắc xin liên hệ với chúng tôi</a></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+    </form>
+</body>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="../../Content/JS/Sales.js"></script>
+//  
+<script src="../../Content/JS/Gio_Hang.js"></script>
+<script src="../../Content/jsBTrap/bootstrap.min.js"></script>
+<script>
+    document.getElementById("btn_thanhToan").addEventListener("click", function(event) {
+	  var address = document.getElementById("newsletter_address").value;
+		  if (address.trim() === '') {
+			event.preventDefault(); // Ngăn chặn gửi form nếu địa chỉ chưa được nhập
+			alert("Vui lòng nhập địa chỉ!");
+		  }
+	});
+</script>
+</html>
